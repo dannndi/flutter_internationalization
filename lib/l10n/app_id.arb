@@ -1,0 +1,4 @@
+{
+    "helloWorld": "Hai Dunia",
+    "sayMyName": "Hai {name}, dari {location}"
+}
